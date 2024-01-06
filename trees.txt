@@ -3,3 +3,4 @@ pine
 Apple
 Balsam fir
 Pin cherry
+Locust
